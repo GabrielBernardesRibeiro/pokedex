@@ -1,0 +1,10 @@
+{
+	"autoload":{
+		"psr-4":{
+			"RProject\\": "RProject/"
+		},
+		"files": [
+			"constants.php"
+		]
+	}
+}
